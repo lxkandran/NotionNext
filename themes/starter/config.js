@@ -9,7 +9,7 @@ const CONFIG = {
   // MENU ， 菜单部分不在此处配置，请在Notion数据库中添加MENU
 
   // 英雄区块导航
-  STARTER_HERO_ENABLE: true, // 开启英雄区
+  STARTER_HERO_ENABLE: false, // 开启英雄区
   STARTER_HERO_TITLE_1: '只要你有好稿件 我们舍得大版面', // 英雄区文字
   STARTER_HERO_TITLE_2: '不厚名家 不薄新人', // 英雄区文字
   // 英雄区两个按钮，如果TEXT留空则隐藏按钮
