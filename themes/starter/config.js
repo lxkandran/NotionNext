@@ -171,15 +171,15 @@ const CONFIG = {
   STARTER_FAQ_ENABLE: true, // 常见问题模块开关
   STARTER_FAQ_TITLE: '常见问题解答',
   STARTER_FAQ_TEXT_1: '有任何问题吗？请看这里',
-  STARTER_FAQ_TEXT_2: '我们收集了常见的用户疑问',
+  STARTER_FAQ_TEXT_2: '我们收集了常见的诗友疑问',
 
-  STARTER_FAQ_1_QUESTION: 'NotionNext有帮助文档吗？',
+  STARTER_FAQ_1_QUESTION: '如果上稿《扶摇诗刊》，发放稿费么？',
   STARTER_FAQ_1_ANSWER:
-    'NotionNext提供了<a href="https://docs.tangly1024.com/about" className="underline">帮助文档</a>，操作<a href="https://www.bilibili.com/video/BV1fM4y1L7Qi/" className="underline">演示视频</a>，以及<a href="https://docs.tangly1024.com/article/chat-community" className="underline">交流社群</a>来协助您完成网站的搭建部署',
+    '暂时没有稿费，后续规划发放稿费。《扶摇诗刊》自2024年5月4日发起以来，秉承“不厚名家、不薄新人”的原则，致力于为广大诗歌爱好者提供一个展示才华的平台。一经录用，赠电子样刊。',
 
-  STARTER_FAQ_2_QUESTION: '部署后要如何编写文章？',
+  STARTER_FAQ_2_QUESTION: '审稿周期长么？',
   STARTER_FAQ_2_ANSWER:
-    '您可以在Notion中之间添加或修改类型为Post的页面，内容将被实时同步在站点中，详情参考<a className="underline" href="https://docs.tangly1024.com/article/start-to-write">《帮助文档》</a>',
+    '审稿周期短，百分百看查看来稿并给予回复。凡是每周周五下午2时之前来稿，皆在周五晚24时前给予回复。',
 
   STARTER_FAQ_3_QUESTION: '站点部署失败，更新失败？',
   STARTER_FAQ_3_ANSWER:
