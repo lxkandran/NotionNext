@@ -181,13 +181,13 @@ const CONFIG = {
   STARTER_FAQ_2_ANSWER:
     '审稿周期短，百分百看查看来稿并给予回复。凡是每周周五下午2时之前来稿，皆在周五晚24时前给予回复。',
 
-  STARTER_FAQ_3_QUESTION: '站点部署失败，更新失败？',
+  STARTER_FAQ_3_QUESTION: '投稿诗篇必须原创首发么？',
   STARTER_FAQ_3_ANSWER:
-    '通常是配置修改错误导致，请检查配置或者重试操作步骤，或者通过Vercel后台的Deployments中找到错误日志，并向网友求助',
+    '原创、可以是非首发（但无版权争议），作者文责自负。',
 
-  STARTER_FAQ_4_QUESTION: '文章没有实时同步？',
+  STARTER_FAQ_4_QUESTION: '《扶摇诗刊》有正规刊号么？',
   STARTER_FAQ_4_ANSWER:
-    '先检查Notion_Page_ID是否正确配置，其次由于博客的每个页面都有独立缓存，刷新网页后即可解决',
+    '目前处于起步阶段，正在申请国际标准刊号。',
 
   // 团队成员区块
   STARTER_TEAM_ENABLE: false, // 团队成员区块开关
